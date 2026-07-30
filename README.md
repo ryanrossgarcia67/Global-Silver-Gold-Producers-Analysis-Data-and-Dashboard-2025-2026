@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Dashboard Preview](images/dashboard_preview.png)
+
 Global precious metals analytics project examining major gold and silver producers through production, financial, geographic, and market-capitalization analysis.
 
 The project combines structured datasets, dashboard visualization, and ongoing database development to provide a comprehensive view of publicly traded precious metals producers.
