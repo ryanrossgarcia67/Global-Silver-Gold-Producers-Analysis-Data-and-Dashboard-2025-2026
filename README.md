@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard/screenshots_preview.png)
 
 Global precious metals analytics project examining major gold and silver producers through production, financial, geographic, and market-capitalization analysis.
 
